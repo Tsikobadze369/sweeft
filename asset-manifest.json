@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sweeft/static/css/main.7d80cfc1.css",
+    "main.js": "/sweeft/static/js/main.aa5ca4e6.js",
+    "static/js/787.47785e61.chunk.js": "/sweeft/static/js/787.47785e61.chunk.js",
+    "index.html": "/sweeft/index.html",
+    "main.7d80cfc1.css.map": "/sweeft/static/css/main.7d80cfc1.css.map",
+    "main.aa5ca4e6.js.map": "/sweeft/static/js/main.aa5ca4e6.js.map",
+    "787.47785e61.chunk.js.map": "/sweeft/static/js/787.47785e61.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d80cfc1.css",
+    "static/js/main.aa5ca4e6.js"
+  ]
+}
